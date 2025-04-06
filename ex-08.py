@@ -15,4 +15,5 @@ print(soma)
 int = 1,2,3
 strings = 'Joao'
 float
-boleano = true or false 
+boleano = true or false
+efwe
